@@ -1,0 +1,24 @@
+# Rust binary files
+/target/
+**/*.rs.bk
+
+# Cargo files
+/Cargo.lock
+/Cargo.toml
+
+# IDE files
+/.idea/
+/.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*~ 
+*.swp
+
+# Other temporary files
+*.log
+*.tmp
+
